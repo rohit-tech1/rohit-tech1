@@ -59,10 +59,10 @@ Multi-user support ticket management system.
 ## 📈 GitHub Stats
 
 <p align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-tech1&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohit-tech1&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-tech1&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-tech1&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -72,7 +72,7 @@ Multi-user support ticket management system.
 
 📧 rohitmondal.official@gmail.com  
 
-💼 LinkedIn: Add Your LinkedIn Link  
+💼 LinkedIn: https://www.linkedin.com/in/rohit-mondal-6910ab201/
 
 🚀 Portfolio: Coming Soon
 

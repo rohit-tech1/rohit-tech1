@@ -72,7 +72,7 @@ Multi-user support ticket management system.
 
 💼 LinkedIn: https://www.linkedin.com/in/rohit-mondal-6910ab201/
 
-🚀 Portfolio: Coming Soon
+🚀 Portfolio: the-rohit-portfolio.vercel.app
 
 ---
 
